@@ -1,0 +1,4 @@
+# Programas compilados (se generan con build.bat)
+build/
+*.exe
+*.o
